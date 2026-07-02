@@ -1,6 +1,6 @@
 body {
     background-image: url(/assets/base_images/avatar.jpg);
-    background-blend-mode: overlay;
+    background-blend-mode: stretch;
     background-size: 80%;
     align-items: center;
 }
